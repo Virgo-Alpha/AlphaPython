@@ -1,0 +1,2 @@
+<h1>Alpha Pythonista </h2>
+<p> This is my first python repository. It is majorly for my self-education in the programming language as well as projects that I will do from the book <q> Python Bookcamp Exercises and Projects by Sarcar, Vaskaran </q> </p>
